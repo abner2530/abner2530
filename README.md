@@ -6,10 +6,10 @@
 
 
 ## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,js,nodejs,cpp)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,cpp,js,nodejs)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,mongodb,postgres,mysql,git,github)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,git,github,mongodb,postgres,mysql)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
