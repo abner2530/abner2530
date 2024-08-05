@@ -1,23 +1,23 @@
-##  Olá, meu nome é Abner Enoque Monteiro Silva!
+<h1 align="center">👋 Olá, eu sou Abner Enoque Monteiro Silva</h1>
 
-<!-- Faça uma breve apresentação sobre você e a sua stack.
+<p align="center">
+  💻 Estudante de Programação | 🌍 Apaixonado por Tecnologia
+</p><br><br>
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
--->
+## 🚀 Linguagens de Programação
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,c,js,nodejs,cpp)](https://skillicons.dev)<br><br>
 
-## 🚀 Minhas Skills
+## 🛠️ Ferramentas e Tecnologias
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,mongodb,postgres,mysql,git,github)](https://skillicons.dev)<br><br>
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+## 📫 Contato
 
-## ⭐ GitHub Stats
+[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:masterabner@gmail.com)](mailto:masterabner@gmail.com)
+[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abner-enoque-34292621a/)](https://www.linkedin.com/in/abner-enoque-34292621a/)
+<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br> -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abner2530&show_icons=true)
+
+![Abner2530 GitHub stats](https://github-readme-stats.vercel.app/api?username=abner2530&show_icons=true&theme=radical)
+
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
