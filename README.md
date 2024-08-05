@@ -1,4 +1,4 @@
-##  Olá, meu nome é {Abner Enoque Monteiro Silva}!
+##  Olá, meu nome é Abner Enoque Monteiro Silva!
 
 <!-- Faça uma breve apresentação sobre você e a sua stack.
 
