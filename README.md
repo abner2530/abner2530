@@ -13,8 +13,8 @@
 
 ## 📫 Contato
 
-[![Gmail Badge](https://img.shields.io/badge/-{SeuEmail}-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:masterabner@gmail.com)](mailto:masterabner@gmail.com)
-[![Linkedin: Ellen](https://img.shields.io/badge/-ellendias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abner-enoque-34292621a/)](https://www.linkedin.com/in/abner-enoque-34292621a/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:masterabne35r@gmail.com)](mailto:masterabner35@gmail.com)
+[![Linkedin: Ellen](https://img.shields.io/badge/-abnerenoque-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abner-enoque-34292621a/)](https://www.linkedin.com/in/abner-enoque-34292621a/)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br> -->
 
 
