@@ -18,6 +18,6 @@
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/SeuUsuario?style=social)]({Link}) <br><br> -->
 
 
-![Abner2530 GitHub stats](https://github-readme-stats.vercel.app/api?username=abner2530&show_icons=true&theme=algolia)
+<!-- ![Abner2530 GitHub stats](https://github-readme-stats.vercel.app/api?username=abner2530&show_icons=true&theme=algolia) -->
 
 Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação. Estou ansioso para ouvir de você! 😊 <br><br>
