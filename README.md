@@ -9,7 +9,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,react,vue,kotlin,c,cpp,,)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,git,github,mongodb,postgres,mysql)](https://skillicons.dev)<br><br>
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,vscode,git,github,mongodb,postgres,mysql,firebase)](https://skillicons.dev)<br><br>
 
 ## 📫 Contato
 
