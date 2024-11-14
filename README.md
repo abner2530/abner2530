@@ -5,7 +5,7 @@
 </p><br><br>
 
 
-## 🚀 Linguagens de Programação
+## 🚀 Linguagens de Programação e Frameworks
 [![My Skills](https://skillicons.dev/icons?i=java,js,nodejs,react,vue,kotlin,c,cpp,,)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
